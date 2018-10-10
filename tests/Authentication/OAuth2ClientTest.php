@@ -25,7 +25,7 @@ namespace Facebook\Tests\Authentication;
 
 use Facebook\Facebook;
 use Facebook\FacebookApp;
-use Facebook\Authentication\OAuth2Client;
+use Facebook\Authentication\OAuth2Client; // Um dois três testando
 
 class OAuth2ClientTest extends \PHPUnit_Framework_TestCase
 {
